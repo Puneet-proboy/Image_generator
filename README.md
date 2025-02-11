@@ -16,6 +16,11 @@ A stunning, modern web application that generates AI-powered images using OpenAI
 - 🌈 Dynamic gradient background
 - 📱 Responsive design for all devices
 
+## 🎥 Demo
+Watch the application demo on YouTube:
+
+[![AI Image Generator Demo](https://img.youtube.com/vi/rtKmKpiwu1s/0.jpg)](https://youtu.be/rtKmKpiwu1s)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
